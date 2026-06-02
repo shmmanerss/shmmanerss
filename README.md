@@ -33,7 +33,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
   </a>
 </p>
-# 📊 Немного статистики:
+## 📊 Немного статистики:
 
 ![](https://github-readme-stats.vercel.app/api?username=shmmanerss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
