@@ -19,7 +19,6 @@
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,docker,github,git&perline=5" />
 </p>
-
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,figma,latex,tableau,photoshop&perline=5" />
 </p>
