@@ -33,10 +33,17 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
   </a>
 </p>
-## 📊 Немного статистики:
 
-![](https://github-readme-stats.vercel.app/api?username=shmmanerss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## Немного статистики:
 
-![](https://nirzak-streak-stats.vercel.app/?user=shmmanerss&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shmmanerss&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shmmanerss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shmmanerss&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmmanerss&layout=compact&theme=dark" alt="Top Languages" />
+</p>
