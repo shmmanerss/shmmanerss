@@ -27,9 +27,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
   <a href="https://t.me/shmmaners">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="40" height="40"/>
   </a>
   <a href="https://steamcommunity.com/id/gonzaaaja/">
-    <img src="https://skillicons.dev/icons?i=steam" width="40" height="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
   </a>
 </p>
