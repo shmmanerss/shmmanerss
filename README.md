@@ -13,16 +13,18 @@
 
 
 ## 🛠 Навыки
-<p align="right">
+<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,scipy,numpy,matplotlib,pandas&perline=5" />
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,docker,github,git&perline=5" />
 </p>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,figma,adobe,tableau,powerbi&perline=5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,figma,latex,tableau,photoshop&perline=5" />
 </p>
 
 ## Мои контакты:
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=1" />
+</p>
