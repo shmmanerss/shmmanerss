@@ -24,16 +24,12 @@
 ## Мои контакты:
 <p align="center">
   <a href="mailto:nyagaard@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://t.me/shmmaners">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/gonzaaaja/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=steam" width="40" height="40" />
   </a>
-  <br>
-  <b>nyagaard@gmail.com</b> &nbsp;|&nbsp; <b>@shmmaners</b> &nbsp;|&nbsp; <b>gonzaaaja</b>
 </p>
