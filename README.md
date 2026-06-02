@@ -22,7 +22,7 @@
 </p>
 
 ## Мои контакты:
-<p align="center">
+<p align="left">
   <a href="mailto:nyagaard@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
