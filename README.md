@@ -1,8 +1,8 @@
 # Обо мне:
-Привет! \
+Привет! Меня зовут Алика \
 Я - студентка старших курсов НИЯУ МИФИ, Москва \
 Люблю работать с данными - находить закономерности, проверять гипотезы и делать выводы \
-Умею программировать (Python, SQL), считать (мат. стат.), и, конечно же, красиво оформлять результаты (Figma, Canva) \
+Умею программировать, считать, и, конечно же, красиво оформлять результаты \
 Люблю эконометрику!!! \
 Английский C1 - свободно разговарию, читаю документацию, смотрю лекции\
 Французский B2 - понимаю и могу разговаривать на несложном уровне \
@@ -10,7 +10,7 @@
 Рассматриваю аналитику, работу с данными и смежные направления
 
 
-## 🛠 Навыки
+## Навыки
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,scipy,numpy,matplotlib,pandas&perline=5" />
 </p>
@@ -33,3 +33,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
   </a>
 </p>
+# 📊 Немного статистики:
+![](https://github-readme-stats.shion.dev/api?username=shmmanerss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shmmanerss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shmmanerss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
