@@ -33,17 +33,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="50" height="50"/>
   </a>
 </p>
-
-## Немного статистики:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shmmanerss&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shmmanerss&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmmanerss&layout=compact&theme=dark" alt="Top Languages" />
-</p>
