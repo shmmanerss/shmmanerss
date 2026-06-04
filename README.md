@@ -24,13 +24,13 @@
 ## Мои контакты:
 <p align="left">
   <a href="mailto:nyagaard@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
   <a href="https://t.me/shmmaners">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="40" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="50" height="50"/>
   </a>
   <a href="https://steamcommunity.com/id/gonzaaaja/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="40" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=steam" width="50" height="50"/>
   </a>
 </p>
 
